@@ -1,0 +1,6 @@
+﻿Manufacturer1;23;1990;
+Manufacturer2;23;1992;
+Manufacturer1;22;1993;
+Manufacturer2;21;1995;
+Manufacturer2;22;1992;
+Manufacturer1;21;1990;
